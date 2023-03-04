@@ -33,7 +33,6 @@ The elements in nums are distinct.
 package ArrayProblems;
 
 import java.util.Arrays;
-
 public class BuildArrayFromPermutations_2 {
 
     public static void main(String[] args){
