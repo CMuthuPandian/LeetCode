@@ -33,7 +33,6 @@ n == nums.length
 package ArrayProblems;
 import java.util.Arrays;
 public class ConcatenationOfArray_3 {
-
     public static void main(String[] args){
         int[] arr = {1,3,2,1};
         System.out.println(Arrays.toString(getConcatenation(arr)));
