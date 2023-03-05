@@ -31,7 +31,6 @@ n == nums.length
 
  */
 package ArrayProblems;
-
 import java.util.Arrays;
 
 public class ConcatenationOfArray_3 {
