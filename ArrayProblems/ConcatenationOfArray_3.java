@@ -37,7 +37,6 @@ public class ConcatenationOfArray_3 {
         int[] arr = {1,3,2,1};
         System.out.println(Arrays.toString(getConcatenation(arr)));
     }
-
     public static int[] getConcatenation(int[] nums) {
         int[] ans = new int[2*nums.length];
         for(int i=0;i<nums.length;i++){
