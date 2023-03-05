@@ -47,7 +47,6 @@ public class ConcatenationOfArray_3 {
     }
 }
 
-
 /*
 
 class Solution {
