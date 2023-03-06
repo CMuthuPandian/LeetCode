@@ -55,7 +55,6 @@ Possible solutions with less time complexcity:
         }
         return false;
 
-
         Arrays.sort(nums);
         for(int ind = 1; ind < nums.length; ind++) {
             if(nums[ind] == nums[ind - 1]) {
