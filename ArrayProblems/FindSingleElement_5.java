@@ -8,6 +8,7 @@ You must implement a solution with a linear runtime complexity and use only cons
  */
 
 
+
 public class FindSingleElement_5 {
 
     public static void main(String[] args){
