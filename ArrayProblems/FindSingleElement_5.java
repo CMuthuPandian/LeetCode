@@ -7,7 +7,7 @@ You must implement a solution with a linear runtime complexity and use only cons
 
  */
 
-
+package ArrayProblems;
 
 public class FindSingleElement_5 {
 
