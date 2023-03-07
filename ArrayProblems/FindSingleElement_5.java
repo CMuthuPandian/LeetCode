@@ -53,7 +53,6 @@ public int singleNumber(int[] nums) {
         ans ^= nums[i];
 
     return ans;
-
 }
 
  */
