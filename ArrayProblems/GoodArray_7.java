@@ -32,7 +32,6 @@ Constraints:
 1 <= nums[i] <= 10^9
 
  */
-
 package ArrayProblems;
 
 public class GoodArray_7 {
