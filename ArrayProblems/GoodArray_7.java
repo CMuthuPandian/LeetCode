@@ -33,7 +33,6 @@ Constraints:
 
  */
 package ArrayProblems;
-
 public class GoodArray_7 {
 
     public static void main(String[] args){
