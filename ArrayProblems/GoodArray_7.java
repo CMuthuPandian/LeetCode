@@ -32,7 +32,9 @@ Constraints:
 1 <= nums[i] <= 10^9
 
  */
+
 package ArrayProblems;
+
 public class GoodArray_7 {
 
     public static void main(String[] args){
