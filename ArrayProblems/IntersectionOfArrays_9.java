@@ -8,8 +8,6 @@ you may return the result in any order.
 
 package ArrayProblems;
 
-
-
 import java.util.*;
 
 public class IntersectionOfArrays_8 {
