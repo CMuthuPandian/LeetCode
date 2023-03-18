@@ -1,4 +1,3 @@
-
 /*
 
 You are given a large integer represented as an integer array digits,
