@@ -8,7 +8,7 @@ Return k after placing the final result in the first k slots of nums.
 
  */
 
-
+package ArrayProblems;
 
 public class RemoveDuplicates_16 {
 
