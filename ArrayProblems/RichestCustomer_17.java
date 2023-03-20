@@ -46,7 +46,6 @@ public class RichestCustomer_17 {
         int[][] arr = {{1,2,3},{3,2,1}};
         System.out.println(maximumWealth(arr));
     }
-
     public static int maximumWealth(int[][] accounts) {
         int count=0;
         int max = Integer.MIN_VALUE;
