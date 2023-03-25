@@ -24,7 +24,7 @@ Constraints:
 nums.length == 2n
 1 <= nums[i] <= 10^3
 
- */
+*/
 
 package ArrayProblems;
 
