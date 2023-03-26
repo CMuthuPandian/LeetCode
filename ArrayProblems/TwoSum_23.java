@@ -26,7 +26,7 @@ Output: [0,1]
 
  */
 
-
+package ArrayProblems;
 
 import java.util.Arrays;
 
