@@ -41,6 +41,8 @@ Since there are two 8's in the top left 3x3 sub-box, it is invalid.
 
  */
 
+package ArrayProblems;
+
 public class ValidSuduko_24 {
 
     public static void main(String[] args){
