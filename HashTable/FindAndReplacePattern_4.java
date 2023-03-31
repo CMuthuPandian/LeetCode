@@ -25,7 +25,6 @@ Constraints:
 words[i].length == pattern.length
 pattern and words[i] are lowercase English letters.
 
-
  */
 
 package HashTable;
