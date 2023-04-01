@@ -36,7 +36,7 @@ public class FlowersBloom_5 {
 
     public static void main(String[] args){
         int[][] flowers = {{1,6},{3,7},{9,12},{4,13}};
-        int[]persons = {2,3,7,11};
+        int[] persons = {2,3,7,11};
         System.out.println(Arrays.toString(fullBloomFlowers(flowers,persons)));
     }
 
