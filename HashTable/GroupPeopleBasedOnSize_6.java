@@ -55,7 +55,6 @@ public class GroupPeopleBasedOnSize_6 {
                 map.remove(groupSizes[i]);
             }
         }
-
         return ans;
     }
 }
