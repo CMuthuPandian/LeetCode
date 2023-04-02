@@ -57,6 +57,7 @@ public class GroupPeopleBasedOnSize_6 {
         }
         return ans;
     }
+    
 }
 
 /*
