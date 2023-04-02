@@ -24,6 +24,7 @@ Input: groupSizes = [2,1,3,3,3,2]
 Output: [[1],[0,5],[2,3,4]]
 
 Constraints:
+
 groupSizes.length == n
 1 <= n <= 500
 1 <= groupSizes[i] <= n
