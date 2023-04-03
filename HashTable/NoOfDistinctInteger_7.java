@@ -70,6 +70,7 @@ public class NoOfDistinctInteger_7 {
         }
         return temp;
     }
+    
 }
 
 /*
