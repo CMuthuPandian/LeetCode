@@ -56,6 +56,7 @@ public class NumberOfArithmeticTriplets_8 {
         }
         return ans;
     }
+    
 }
 
 /*
