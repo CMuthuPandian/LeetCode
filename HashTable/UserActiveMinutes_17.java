@@ -62,6 +62,7 @@ public class UserActiveMinutes_17 {
         }
         return arr;
     }
+    
 }
 
 /*
