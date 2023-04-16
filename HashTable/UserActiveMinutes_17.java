@@ -7,7 +7,6 @@ You are to calculate a 1-indexed array answer of size k such that, for each j (1
 Return the array answer as described above.
 
 
-
 Example 1:
 
 Input: logs = [[0,5],[1,2],[0,2],[0,5],[1,3]], k = 5
