@@ -6,7 +6,6 @@ The user active minutes (UAM) for a given user is defined as the number of uniqu
 You are to calculate a 1-indexed array answer of size k such that, for each j (1 <= j <= k), answer[j] is the number of users whose UAM equals j.
 Return the array answer as described above.
 
-
 Example 1:
 
 Input: logs = [[0,5],[1,2],[0,2],[0,5],[1,3]], k = 5
