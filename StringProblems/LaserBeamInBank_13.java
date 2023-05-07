@@ -33,7 +33,6 @@ Input: bank = ["000","111","000"]
 Output: 0
 Explanation: There does not exist two devices located on two different rows.
 
-
 Constraints:
 
 m == bank.length
