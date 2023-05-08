@@ -49,6 +49,7 @@ public class LongestCommonPrefix_14 {
             return strs[0].substring(0,i);
         }
     }
+	
 }
 
 /*
